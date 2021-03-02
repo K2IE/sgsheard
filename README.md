@@ -18,7 +18,7 @@ $PageOptions['SGS']['Show']                          = true;         // Show SGS
 
 # sgs status page options
 $PageOptions['SGSTitle']                             = 'Your Dashboard Title';
-$PageOptions['SGSServer']	                  		     = 'servername'; //sgsremote <servername>
+$PageOptions['SGSServer']	                     = 'servername'; //sgsremote <servername>
 $PageOptions['PageRefreshAlt']                       = '60000';      // Alternate page refresh time in miliseconds
 ```
 
